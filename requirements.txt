@@ -1,5 +1,5 @@
 python-dotenv
 Flask==2.2.2
-Werkzeug
+Werkzeug==2.2.2
 line-bot-sdk
 openai
